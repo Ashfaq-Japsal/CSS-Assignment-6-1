@@ -1,0 +1,114 @@
+
+body {
+    background-color: darkgray;
+}
+ul {
+    width: 95%;
+    height: 50px;
+    background-color: black;
+    list-style-type: none;
+    box-shadow: 1px 1px 5px gray;
+    margin: 120px auto;
+    /* position: relative; */
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-around; */
+
+}
+
+li a {
+    text-decoration: none;
+    /* display: block; */
+    /* float: left; */
+    /* position: absolute; */
+    color: aliceblue;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.logo1,.logo3 {
+    margin: 15px 30px;
+    color: white;
+
+}
+
+.logo2 {
+    margin: 15px 750px;
+    color: white;
+}
+
+
+li button {
+    background-color: rgb(23, 206, 206);
+    border-radius: 10px;
+    /* margin-left: 84%; */
+    margin-top: 11px;
+    height: 28px;
+    width: 90px;
+    cursor: pointer;
+    border: none;
+    margin-left: 450px;
+    color: white;
+}
+
+.button2 {
+    margin-left: 30px;
+}
+
+.nav-1 {
+    margin-top: 200px;
+}
+
+.nav-1-manue1 {
+    margin-left: 300px;
+}
+
+.nav-1-manue2 {
+    margin-left: 30px;
+}
+
+.nav-1-manue3 {
+    margin-left: 30px;
+}
+
+.nav-3-manue1 {
+    margin-left: 300px;
+}
+
+.nav-3-manue2 {
+    margin-left: 30px;
+}
+
+.nav-3-manue3 {
+    margin-left: 30px;
+}
+
+.nav-2-manue1 {
+    margin-left: 30px;
+}
+
+.nav-2-manue2 {
+    margin-left: 30px;
+}
+
+.nav-2-manue3 {
+    margin-left: 30px;
+}
+
+.intro {
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    color: #000000;
+    font-size: xx-large;
+    font-weight: bold;
+    border-bottom: 3px dotted rgb(90, 30, 30);
+    border-right: 3px dotted rgb(90, 30, 30);
+    padding: 5px;
+}
+
+.Author {
+    color: rgb(16, 32, 255);
+}
